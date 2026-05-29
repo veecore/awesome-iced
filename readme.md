@@ -93,6 +93,7 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 - <img src="https://img.shields.io/badge/0.13-blue?logo=iced&style=plastic">&ensp;[iced_aw](https://github.com/iced-rs/iced_aw) - An assortment of additional widgets
 - <img src="https://img.shields.io/badge/0.14-blue?logo=iced&style=plastic">&ensp;[iced_color_picker](https://github.com/B0ney/iced-color-picker) - A simple and composible color picker for iced.
 - <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic">&ensp;[iced_gif](https://github.com/tarkah/iced_gif) - A gif widget for iced
+- <img src="https://img.shields.io/badge/0.1.2-blue?logo=iced&style=plastic">&ensp;[iced_gif](https://github.com/veecore/iced_live_cast) - Blazing-fast cross-platform display casting widgets and sources for iced
 - <img src="https://img.shields.io/badge/0.14-blue?logo=iced&style=plastic">&ensp;[iced_moving_picture](https://github.com/mtkennerly/iced-moving-picture) - Animated image widgets (GIF and APNG)
 - <img src="https://img.shields.io/badge/0.13-blue?logo=iced&style=plastic">&ensp;[iced_video_player](https://github.com/jazzfool/iced_video_player) - Composable component to play videos in an iced app leveraging GStreamer.
 - <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic">&ensp;[Prettygooey](https://github.com/pieterdd/prettygooey) - Themed UI components for iced
